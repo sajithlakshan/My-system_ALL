@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+.gallery {
+    margin: 15px ;
+    border: 1px ;
+    border-style:solid;
+    border-color: coral;
+    float: left;
+    width: 400px;
+  }
+  .gallery:hover {
+    border: 1px  ;
+    border-style:solid;
+    border-color: rgb(80, 255, 168);
+  }
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+  .desc {
+    padding: 15px;
+    text-align: center;
+  }
+  #CAT{
+     position: relative;
+    left: 200;
+    width:1750;
+   
+    background-color:aqua;
+  }
+  #T1{
+    position: relative;
+    top: 340;
+    left: 50;
+    color: rgb(0, 0, 0);
+    font-family: "Brush Script MT", cursive;
+  }
+  #T2{
+    position: relative;
+    top: 600;
+    left: 50;
+    color: rgb(0, 0, 0);
+    font-family: "Brush Script MT", cursive;
+  }
+  #T3{
+    position: relative;
+    top: 860;
+    left: 50;
+    color: rgb(0, 0, 0);
+    font-family: "Brush Script MT", cursive;
+  }
+  
+  #Main{
+    position: relative;
+    top: 110;
+    left: 100;
+    color: rgb(0, 0, 0);
+    font-family: "Brush Script MT", cursive;
+  }
+  .NAME{
+    color:blue;
+  }
+  .DIS{
+    color:rgb(7, 110, 24);
+  }
+  .PRIS{
+    color:rgb(235, 152, 0);
+  }
