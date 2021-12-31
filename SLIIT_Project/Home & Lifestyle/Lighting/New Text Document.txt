@@ -1,0 +1,4 @@
+Wall light
+Roof light
+Garden light
+Indoor light
